@@ -1,6 +1,7 @@
 Repositório feito para a criação de uma lista de tarefas utilizando javascript.
 <br>
 Abaixo temos uma imagem ilustrativa:
+![image](https://user-images.githubusercontent.com/102265187/195203539-7812352e-2794-4bdd-bbd2-5a694212a91a.png)
 
 #### Programming languages used
 
