@@ -1,5 +1,7 @@
 Repositório feito para a criação de uma lista de tarefas utilizando javascript.
 <br>
+Link de visualização: https://listadetarefas-raulrodmo.netlify.app/
+<br>
 Abaixo temos uma imagem ilustrativa:
 ![image](https://user-images.githubusercontent.com/102265187/195203729-20f73087-aed5-4eb4-860b-b64158d09ea6.png)
 
