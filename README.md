@@ -2,8 +2,9 @@ Repositório feito para a criação de uma lista de tarefas utilizando javascrip
 <br>
 Link de visualização: https://listadetarefas-raulrodmo.netlify.app/
 <br>
-Abaixo temos uma imagem ilustrativa:
-![image](https://user-images.githubusercontent.com/102265187/195203729-20f73087-aed5-4eb4-860b-b64158d09ea6.png)
+Abaixo temos um vídeo expositivo do resultado:
+
+https://user-images.githubusercontent.com/102265187/199689528-06a0555f-6194-411f-a46b-09b9f50b950e.mp4
 
 #### Programming languages used
 
