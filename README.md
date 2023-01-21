@@ -1,12 +1,32 @@
-Repositório feito para a criação de uma lista de tarefas utilizando javascript.
+<h1 align="center"> Lista de Tarefas </h1>
+
+<p align="center">
+Repositório feito para a criação de uma lista de tarefas.<br/>
+</p>
+
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>
+</p>
+
 <br>
-Abaixo temos uma imagem ilustrativa:
 
-#### Programming languages used
+<p align="center">
+  <img alt="lista de tarefas" src=".github/preview.jpg" width="100%">
+</p>
 
-<div>
-      <a href="https://github.com/raulrodmo">
-            <img id="html" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="60" height="60"/>
-            <img id="css" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/>
-            <img id="js" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="60" height="60"/>
-</div>
+## 🚀 Technologies
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+
+## 💻 Project
+
+- [Visite o projeto online](https://listadetarefas-raulrodmo.netlify.app/)
+
+---
+
+<p align="center">Made with 💜 by raulrodmo</p>
